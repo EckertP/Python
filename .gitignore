@@ -112,3 +112,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/Python/v17/.suo
+.vs/Python/project-colors.json
+.vs/ProjectSettings.json
