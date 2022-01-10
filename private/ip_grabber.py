@@ -2,6 +2,15 @@ from urllib.request import Request, urlopen
 import requests
 import json
 
+# In Working
+
+#Created at *.*.2021
+#Last Update 10.01.2022
+
+#Made by Neiki (Philipp Eckert)
+
+#Private Github (https://github.com/EckertP)
+
 def get_ip():
     ip = "None"
     try:

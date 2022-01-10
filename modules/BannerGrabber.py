@@ -1,6 +1,15 @@
 import socket
-from clear_src import clear_src
+from modules.clear_src import clear_src
 from os import system
+
+# In Working
+
+#Created at *.*.2021
+#Last Update 10.01.2022
+
+#Made by Neiki (Philipp Eckert)
+
+#Private Github (https://github.com/EckertP)
 
 def banner(host):
     clear_src()

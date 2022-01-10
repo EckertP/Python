@@ -7,3 +7,12 @@ user_agents = (
     "Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 (.NET CLR 3.5.30729)",
     "Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.1) Gecko/20090718 Firefox/3.5.1"
 )
+
+# In Working
+
+#Created at *.*.2021
+#Last Update 10.01.2022
+
+#Made by Neiki (Philipp Eckert)
+
+#Private Github (https://github.com/EckertP)

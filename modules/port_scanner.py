@@ -1,7 +1,16 @@
 import socket
 from datetime import datetime, time
-from clear_src import clear_src
+from modules.clear_src import clear_src
 from os import system
+
+# In Working
+
+#Created at *.*.2021
+#Last Update 10.01.2022
+
+#Made by Neiki (Philipp Eckert)
+
+#Private Github (https://github.com/EckertP)
 
 def scanner(host):
     clear_src()
@@ -51,7 +60,7 @@ def scanner(host):
     except socket.gaierror:
         return print("Hostname could not be resolved. Exiting")
     except socket.error:
-        return print("Couldn´t connect to server")
+        return print("Couldnï¿½t connect to server")
     except ValueError:
         return print("Input was not an Int")
 
